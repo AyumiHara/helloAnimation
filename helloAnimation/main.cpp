@@ -37,6 +37,7 @@ void display(){
     
     //for(float t = 0.0; t<2*M_PI+0.05; t+=0.05){
     for (float f = 0.0; f < divNum+1.0; f+=1.0){
+        
        // float x = r * cos(t);
        // float y = r * sin(t);
         
